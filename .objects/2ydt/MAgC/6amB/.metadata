@@ -1,0 +1,13 @@
+﻿{
+  "Name": "ACME System 1 - Log In and 13 more pages - Wo",
+  "Type": "Screen",
+  "Id": "6amBiofpNkeNpwiZjqtZuA",
+  "Reference": "vjYNFm8g5ESvf4FNQPM3pg/6amBiofpNkeNpwiZjqtZuA",
+  "ParentRef": "vjYNFm8g5ESvf4FNQPM3pg/MAgC9Y0hakOqixlA-ttwDw",
+  "Created": "2026-08-25T14:14:33.3576425Z",
+  "Updated": "2026-08-25T14:14:33.3576425Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "Name": "Dispatcher_REFramework_Excercise",
+  "ProjectType": "Process",
+  "Description": "Robotic Enterprise Framework",
+  "MainFile": "Main.xaml"
+}
